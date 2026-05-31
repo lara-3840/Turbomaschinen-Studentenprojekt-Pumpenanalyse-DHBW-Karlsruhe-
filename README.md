@@ -27,6 +27,7 @@ TMB23PT DHBW Karlsruhe
     - Analyse des Betriebsverhalten anhand eines Histogramms der Verlustleistungen und eines Boxplots
 
 ## Dateien
-- Zusatzaufgabe_Lara_Adam.ipynb  # Das fertige Jupyter Notebook mit Code, Kommentaren und Diagrammen
-- volume_flow_data.csv          # Der zugrundeliegende Datensatz (Volumenstrom-Zeitreihe)
-- README.md                     # Projektbeschreibung
+* `Zusatzaufgabe_Lara_Adam.ipynb` $\rightarrow$ Das fertige Jupyter Notebook mit Code, Kommentaren und Diagrammen
+* `volume_flow_data.csv` $\rightarrow$ Der zugrundeliegende Datensatz (Volumenstrom-Zeitreihe)
+* `README.md` $\rightarrow$ Projektbeschreibung
+* * `Pumpendatenblatt.pdf` $\rightarrow$ Pumpendatenblatt
