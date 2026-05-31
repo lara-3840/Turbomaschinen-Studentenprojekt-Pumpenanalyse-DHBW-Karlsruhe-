@@ -1,5 +1,5 @@
 # Turbomaschinen-Studentenprojekt
-In diesem Repository sind alle Dateien zur Abgabe des Studentenprojekts enthalten. Hierbei wird eine Wasserpumpe untersucht. Dies erfolgt auf Basis eines gegebenen Pumpendatenblatts sowie einer csv-Datei mit den gemessenen volumetrischen Durchflussraten.
+In diesem Repository sind alle Dateien zur Abgabe des Studentenprojekts enthalten. Hierbei wird eine Wasserpumpe untersucht. Dies erfolgt auf Basis eines gegebenen Pumpendatenblatts sowie einer csv-Datei mit den gemessenen volumetrischen Durchflussraten. Zur Erstellung des Codes wurde Jupyter Notebook verwendet.
 
 ## Fünfstelliger Code für Bewertung:
 03840
@@ -25,6 +25,8 @@ TMB23PT DHBW Karlsruhe
     - Leistung vs. Zeit Vergleich (Rohdaten und geglättet)
     - Histogramm zur Verteilung des Wirkungsgrads
     - Analyse des Betriebsverhalten anhand eines Histogramms der Verlustleistungen und eines Boxplots
+
+Die genauen Vorgehensweise wird im Jupyter Notebook-Code mit Kommentaren erleäutert.
 
 ## Dateien
 * `Zusatzaufgabe_Lara_Adam.ipynb` $\rightarrow$ Das fertige Jupyter Notebook mit Code, Kommentaren und Diagrammen
