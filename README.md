@@ -26,7 +26,7 @@ TMB23PT DHBW Karlsruhe
     - Histogramm zur Verteilung des Wirkungsgrads
     - Analyse des Betriebsverhalten anhand eines Histogramms der Verlustleistungen und eines Boxplots
 
-Die genauen Vorgehensweise wird im Jupyter Notebook-Code mit Kommentaren erleäutert.
+Die genauen Vorgehensweise wird im Jupyter Notebook-Code mit Kommentaren erläutert.
 
 ## Dateien
 * `Zusatzaufgabe_Lara_Adam.ipynb` $\rightarrow$ Das fertige Jupyter Notebook mit Code, Kommentaren und Diagrammen
